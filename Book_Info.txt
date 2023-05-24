@@ -1,0 +1,101 @@
+ID,Genre,Title,Author,Purchase_Price,Purchase_Date
+1,Dystopian-Fiction,Scavengers,Darren Simpson,£6.79,2/12/2020
+2,Fiction,Ugly Love,Colleen Hoover,£4.50,14/04/2021
+3,Fiction,War and Peace,Leo Tolstoy,£5.79,11/12/2018
+4,Non-Fiction,Silent Spring,Rachel Carson,£8.85,9/12/2021
+5,Non-Fiction,Into Thin Air,Jon Krakauer,£4.19,2/12/2021
+6,Non-Fiction,The Undercover Economist,Tim Harford,£6.49,20/08/2019
+7,Fiction,Great Expectations,Charles Dickens,£2.99,15/01/2021
+8,Fiction,The Book Thief,Markus Zusak,£5.49,2/07/2012
+9,Fiction,The Great Gatsby,F.Scott Fitzgerald,£3.49,3/05/2005
+10,Science-Fiction,Neuromancer,William Gibson,£4.49,6/02/2015
+11,Science-Fiction,Dune,Frank Herbert,£8.64,31/08/2010
+12,Non-Fiction,In Cold Blood,Truman Capote,£4.49,18/11/2022
+13,Historical-Fiction,Wolf Hall,Hilary Mantel,£6.99,20/11/2020 
+14,Mystery,Gone Girl,Gillian Flynn,£4.75,30/03/2017 
+15,Mystery,Blue Bird,Attica Locke,£4.49,30/04/2018
+16,Adventure-Fiction,Treasure Island,Robert Louis,£5.79,13/02/2021
+17,Adventure-Fiction,Fire & Blood,George R. R. Martin,£4.50,19/07/2019
+18,Fantasy,A Game of Thrones,George R. R. Martin,£6.99,09/09/2016
+19,Fantasy,The Lord of the Rings,J. R. R. Tolkien,£6.19,20/12/2018
+20,Fantasy,The Fellowship of the Ring,J. R. R. Tolkien,£6.99,19/12/2022
+21,Dystopian-Fiction,Scavengers,Darren Simpson,£6.79,2/12/2020
+22,Fiction,Ugly Love,Colleen Hoover,£4.50,14/04/2021
+23,Fiction,War and Peace,Leo Tolstoy,£5.79,11/12/2018
+24,Non-Fiction,Silent Spring,Rachel Carson,£8.85,9/12/2021
+25,Non-Fiction,Into Thin Air,Jon Krakauer,£4.19,2/12/2021
+26,Non-Fiction,The Undercover Economist,Tim Harford,£6.49,20/08/2019
+27,Fiction,Great Expectations,Charles Dickens,£2.99,15/01/2021
+28,Fiction,The Book Thief,Markus Zusak,£5.49,2/07/2012
+29,Fiction,The Great Gatsby,F.Scott Fitzgerald,£3.49,3/05/2005
+30,Science-Fiction,Neuromancer,William Gibson,£4.49,6/02/2015
+31,Science-Fiction,Dune,Frank Herbert,£8.64,31/08/2010
+32,Non-Fiction,In Cold Blood,Truman Capote,£4.49,18/11/2022
+33,Historical-Fiction,Wolf Hall,Hilary Mantel,£6.99,20/11/2020 
+34,Mystery,Gone Girl,Gillian Flynn,£4.75,30/03/2017 
+35,Mystery,Blue Bird,Attica Locke,£4.49,30/04/2018
+36,Adventure-Fiction,Treasure Island,Robert Louis,£5.79,13/02/2021
+37,Adventure-Fiction,Fire & Blood,George R. R. Martin,£4.50,19/07/2019
+38,Fantasy,A Game of Thrones,George R. R. Martin,£6.99,09/09/2016
+39,Fantasy,The Lord of the Rings,J. R. R. Tolkien,£6.19,20/12/2018
+40,Fantasy,The Fellowship of the Ring,J. R. R. Tolkien,£6.99,19/12/2022
+41,Dystopian-Fiction,Scavengers,Darren Simpson,£6.79,2/12/2020
+42,Fiction,Ugly Love,Colleen Hoover,£4.50,14/04/2021
+43,Fiction,War and Peace,Leo Tolstoy,£5.79,11/12/2018
+44,Non-Fiction,Silent Spring,Rachel Carson,£8.85,9/12/2021
+45,Non-Fiction,Into Thin Air,Jon Krakauer,£4.19,2/12/2021
+46,Non-Fiction,The Undercover Economist,Tim Harford,£6.49,20/08/2019
+47,Fiction,Great Expectations,Charles Dickens,£2.99,15/01/2021
+48,Fiction,The Book Thief,Markus Zusak,£5.49,2/07/2012
+49,Fiction,The Great Gatsby,F.Scott Fitzgerald,£3.49,3/05/2005
+50,Science-Fiction,Neuromancer,William Gibson,£4.49,6/02/2015
+51,Science-Fiction,Dune,Frank Herbert,£8.64,31/08/2010
+52,Non-Fiction,In Cold Blood,Truman Capote,£4.49,18/11/2022
+53,Historical-Fiction,Wolf Hall,Hilary Mantel,£6.99,20/11/2020 
+54,Mystery,Gone Girl,Gillian Flynn,£4.75,30/03/2017 
+55,Mystery,Blue Bird,Attica Locke,£4.49,30/04/2018
+56,Adventure-Fiction,Treasure Island,Robert Louis,£5.79,13/02/2021
+57,Adventure-Fiction,Fire & Blood,George R. R. Martin,£4.50,19/07/2019
+58,Fantasy,A Game of Thrones,George R. R. Martin,£6.99,09/09/2016
+59,Fantasy,The Lord of the Rings,J. R. R. Tolkien,£6.19,20/12/2018
+60,Fantasy,The Fellowship of the Ring,J. R. R. Tolkien,£6.99,19/12/2022
+61,Dystopian-Fiction,Scavengers,Darren Simpson,£6.79,2/12/2020
+62,Fiction,Ugly Love,Colleen Hoover,£4.50,14/04/2021
+63,Fiction,War and Peace,Leo Tolstoy,£5.79,11/12/2018
+64,Non-Fiction,Silent Spring,Rachel Carson,£8.85,9/12/2021
+65,Non-Fiction,Into Thin Air,Jon Krakauer,£4.19,2/12/2021
+66,Non-Fiction,The Undercover Economist,Tim Harford,£6.49,20/08/2019
+67,Fiction,Great Expectations,Charles Dickens,£2.99,15/01/2021
+68,Fiction,The Book Thief,Markus Zusak,£5.49,2/07/2012
+69,Fiction,The Great Gatsby,F.Scott Fitzgerald,£3.49,3/05/2005
+70,Science-Fiction,Neuromancer,William Gibson,£4.49,6/02/2015
+71,Science-Fiction,Dune,Frank Herbert,£8.64,31/08/2010
+72,Non-Fiction,In Cold Blood,Truman Capote,£4.49,18/11/2022
+73,Historical-Fiction,Wolf Hall,Hilary Mantel,£6.99,20/11/2020 
+74,Mystery,Gone Girl,Gillian Flynn,£4.75,30/03/2017 
+75,Mystery,Blue Bird,Attica Locke,£4.49,30/04/2018
+76,Adventure-Fiction,Treasure Island,Robert Louis,£5.79,13/02/2021
+77,Adventure-Fiction,Fire & Blood,George R. R. Martin,£4.50,19/07/2019
+78,Fantasy,A Game of Thrones,George R. R. Martin,£6.99,09/09/2016
+79,Fantasy,The Lord of the Rings,J. R. R. Tolkien,£6.19,20/12/2018
+80,Fantasy,The Fellowship of the Ring,J. R. R. Tolkien,£6.99,19/12/2022
+81,Dystopian-Fiction,Scavengers,Darren Simpson,£6.79,2/12/2020
+82,Fiction,Ugly Love,Colleen Hoover,£4.50,14/04/2021
+83,Fiction,War and Peace,Leo Tolstoy,£5.79,11/12/2018
+84,Non-Fiction,Silent Spring,Rachel Carson,£8.85,9/12/2021
+85,Non-Fiction,Into Thin Air,Jon Krakauer,£4.19,2/12/2021
+86,Non-Fiction,The Undercover Economist,Tim Harford,£6.49,20/08/2019
+87,Fiction,Great Expectations,Charles Dickens,£2.99,15/01/2021
+88,Fiction,The Book Thief,Markus Zusak,£5.49,2/07/2012
+89,Fiction,The Great Gatsby,F.Scott Fitzgerald,£3.49,3/05/2005
+90,Science-Fiction,Neuromancer,William Gibson,£4.49,6/02/2015
+91,Science-Fiction,Dune,Frank Herbert,£8.64,31/08/2010
+92,Non-Fiction,In Cold Blood,Truman Capote,£4.49,18/11/2022
+93,Historical-Fiction,Wolf Hall,Hilary Mantel,£6.99,20/11/2020 
+94,Mystery,Gone Girl,Gillian Flynn,£4.75,30/03/2017 
+95,Mystery,Blue Bird,Attica Locke,£4.49,30/04/2018
+96,Adventure-Fiction,Treasure Island,Robert Louis,£5.79,13/02/2021
+97,Adventure-Fiction,Fire & Blood,George R. R. Martin,£4.50,19/07/2019
+98,Fantasy,A Game of Thrones,George R. R. Martin,£6.99,09/09/2016
+99,Fantasy,The Lord of the Rings,J. R. R. Tolkien,£6.19,20/12/2018
+100,Fantasy,The Fellowship of the Ring,J. R. R. Tolkien,£6.99,19/12/2022

@@ -1,0 +1,8 @@
+Simple Library management system design (LMS) for a librarian. 
+Books can be searched based on author, title or genre filter option to check their availability, check out available books, and return any books the members currently have. It can also just return the entire database without the filter option which gives flexibility. 
+Details of all books in the library are stored in an external text file. This had full GUI functionality.
+The logfile.txt is manually populated with  and accounts database, but the logfile is automatically updated with ID,Book_ID,Member_Email,Checkout_Date,Deadline_Date,Returned_Date,Issued_By,Accepted_By,Condition,Comments and every book withdrawal or hand in.
+The checkout date and the deadline date in checkout.py is set to today's date by default. The deadline date is set 1 week from todays date. 
+Member ID is in an email format instead of the 4 characters
+used pandas module for data/ file work effeciency
+
